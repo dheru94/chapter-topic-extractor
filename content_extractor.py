@@ -6,7 +6,7 @@ import pandas as pd
 from google.generativeai import GenerativeModel, configure
 
 # === CONFIG ===
-GOOGLE_API_KEY = "AIzaSyAlBLVrh3Jqsf2bE2U467GBprNzSoonjG4"
+GOOGLE_API_KEY = "api kay"
 INPUT_DIR = "INPUT"
 OUTPUT_JSON_DIR = "OUTPUT/json"
 OUTPUT_EXCEL_DIR = "OUTPUT/excel"
