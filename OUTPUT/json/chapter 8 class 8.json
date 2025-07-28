@@ -1,0 +1,337 @@
+{
+  "chapter_number": "8",
+  "chapter_name": "FORCE AND PRESSURE",
+  "topics": [
+    {
+      "topic_number": "8.0",
+      "topic_title": "Introduction",
+      "content": [
+        {
+          "page_no": "94",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "8.0.1",
+          "actual_content": "In Class VII, you have learnt how objects move. Do you recall how we can decide whether an object is moving faster than the other? What does the distance moved by an object in unit time indicate? You also know that a moving object like a ball rolling on the ground slows down. Sometimes it may change its direction of motion. It is also possible that the ball may slow down and also change its direction. Have you ever wondered what makes an object slow down or go faster, or change its direction of motion?"
+        },
+        {
+          "page_no": "94",
+          "sequence_no": 2,
+          "type": "Paragraph",
+          "internal_name": "8.0.2",
+          "actual_content": "Let us recall some of our everyday experiences. What do you do to make a football move? What do you do to make a moving ball move faster? How does a goalkeeper stop a ball? A hockey player changes the direction of the moving ball with a flick of the stick. How do fielders stop a ball hit by a batsman? (Fig. 8.1). In all these situations the ball is either made to move faster or slower or its direction of motion is changed."
+        },
+        {
+          "page_no": "94",
+          "sequence_no": 3,
+          "type": "Paragraph",
+          "internal_name": "8.0.3",
+          "actual_content": "We often say that a force has been applied on a ball when it is kicked, pushed, thrown or flicked. What is a force? What can it do to bodies on which it is applied? We shall seek answers to such questions in this chapter."
+        },
+        {
+          "page_no": "94",
+          "sequence_no": 4,
+          "type": "Image",
+          "internal_name": "8.0.4",
+          "actual_content": "Fig. 8.1 : (a) A goal keeper saving a goal, (b) A hockey player flicking a ball, and (c) A fielder stopping a ball"
+        }
+      ]
+    },
+    {
+      "topic_number": "8.1",
+      "topic_title": "Force \u2013 A Push or a Pull",
+      "content": [
+        {
+          "page_no": "94",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "8.1.1",
+          "actual_content": "Actions like picking, opening, shutting, kicking, hitting, lifting, flicking, pushing, pulling are often used to describe certain tasks. Each of these actions usually results in some kind of change in the state of motion of an object. Can these terms be replaced with one or more terms? Let us find out."
+        },
+        {
+          "page_no": "94",
+          "sequence_no": 2,
+          "type": "Activity",
+          "internal_name": "8.1.2",
+          "actual_content": "Activity 8.1\nTable 8.1 gives some examples of familiar situations involving motion of objects. You can add more such situations or replace those given here. Try to identify action involved in each case as a push and/or a pull and record your observations. One example has been given to help you."
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 3,
+          "type": "Table",
+          "internal_name": "8.1.3",
+          "actual_content": "Table 8.1 : Identifying Actions as Push or Pull\nS. No. Description of the situation Action : (pushing/ pulling/picking/ hitting/lifting/ lowering/flying/ kicking/ throwing/shutting/ flicking) Action can be grouped as a Push Pull\n1. Moving a book placed on a table - Pushing, Pulling, Lifting. Yes, Yes\n2. Opening or shutting a door\n3. Drawing a bucket of water from a well\n4. A football player taking a penalty kick\n5. A cricket ball hit by a batsman\n6. Moving a loaded cart\n7. Opening a drawer"
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 4,
+          "type": "Boxed Fact",
+          "internal_name": "8.1.4",
+          "actual_content": "I learnt in Class VI that a magnet attracts a piece of iron towards it. Is attraction also a pull? What about repulsion between similar poles of two magnets? Is it a pull or a push?"
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 5,
+          "type": "Paragraph",
+          "internal_name": "8.1.5",
+          "actual_content": "Do you notice that each of the actions can be grouped as a pull or a push or both? Can we infer from this, that to move an object, it has to be pushed or pulled?"
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 6,
+          "type": "Paragraph",
+          "internal_name": "8.1.6",
+          "actual_content": "In science, a push or a pull on an object is called a force. Thus, we can say that the motion imparted to objects was due to the action of a force. When does a force come into play? Let us find out."
+        }
+      ]
+    },
+    {
+      "topic_number": "8.2",
+      "topic_title": "Forces are due to an Interaction",
+      "content": [
+        {
+          "page_no": "95",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "8.2.1",
+          "actual_content": "Suppose a man is standing behind a stationary car [Fig.8.2(a)]. Will the car move due to his presence? Suppose the man now begins to push the car [Fig.8.2(b)], that is, he applies a force on it. The car may begin to move in the direction of the applied force. Note that the man has to push the car to make it move."
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 2,
+          "type": "Image",
+          "internal_name": "8.2.2",
+          "actual_content": "Fig. 8.2(a) : A man standing behind a stationary car"
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 3,
+          "type": "Image",
+          "internal_name": "8.2.3",
+          "actual_content": "Fig. 8.2 (b) : A car being pushed by a man"
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 4,
+          "type": "Paragraph",
+          "internal_name": "8.2.4",
+          "actual_content": "Fig. 8.3 shows three situations that may be familiar to you. Can you decide who is pulling and who is pushing in these cases? In Fig. 8.3 (a), both the girls appear to push each other while the pair of girls in Fig. 8.3 (b) are trying to pull each other. Similarly, the cow and the man in Fig. 8.3 (c) appear to pull each other. The girls in the two situations shown here are applying force on each other. Is it also true for the man and the cow?"
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 5,
+          "type": "Image",
+          "internal_name": "8.2.5",
+          "actual_content": "Fig. 8.3 (a) : Who is pushing whom?"
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 6,
+          "type": "Image",
+          "internal_name": "8.2.6",
+          "actual_content": "Fig. 8.3 (b) : Who is pulling whom ?"
+        },
+        {
+          "page_no": "95",
+          "sequence_no": 7,
+          "type": "Image",
+          "internal_name": "8.2.7",
+          "actual_content": "Fig. 8.3 (c) : Who is pulling whom?"
+        },
+        {
+          "page_no": "96",
+          "sequence_no": 8,
+          "type": "Paragraph",
+          "internal_name": "8.2.8",
+          "actual_content": "From these examples, we can infer that at least two objects must interact for a force to come into play. Thus, an interaction of one object with another object results in a force between the two objects."
+        }
+      ]
+    },
+    {
+      "topic_number": "8.3",
+      "topic_title": "Exploring Forces",
+      "content": [
+        {
+          "page_no": "96",
+          "sequence_no": 1,
+          "type": "Activity",
+          "internal_name": "8.3.1",
+          "actual_content": "Activity 8.2\nChoose a heavy object like a table or a box, which you can move only by pushing hard. Try to push it all by yourself. Can you move it? Now ask one of your friends to help you in pushing it in the same direction [Fig. 8.4(a)]. Is it easier to move it now? Can you explain why?\nNow push the same object, but ask your friend to push it from the opposite side [Fig. 8.4 (b)]. Does the object move? If it does, note the direction in which it moves. Can you guess which one of you is applying a larger force?"
+        },
+        {
+          "page_no": "96",
+          "sequence_no": 2,
+          "type": "Image",
+          "internal_name": "8.3.2",
+          "actual_content": "Fig. 8.4 : Two friends pushing a heavy load (a) in the same direction, (b) in opposite direction"
+        },
+        {
+          "page_no": "96",
+          "sequence_no": 3,
+          "type": "Paragraph",
+          "internal_name": "8.3.3",
+          "actual_content": "Let us try to learn more about forces."
+        },
+        {
+          "page_no": "96",
+          "sequence_no": 4,
+          "type": "Paragraph",
+          "internal_name": "8.3.4",
+          "actual_content": "Have you ever seen a game of tug-of war? In this game two teams pull at a rope in opposite directions (Fig. 8.5). Members of both the teams try to pull the rope in their direction. Sometimes the rope simply does not move. Is it not similar to the situation shown in Fig. 8.3 (b)? The team that pulls harder, that is, applies a larger force, finally wins the game."
+        },
+        {
+          "page_no": "96",
+          "sequence_no": 5,
+          "type": "Image",
+          "internal_name": "8.3.5",
+          "actual_content": "Fig. 8.5 : The rope may not move if the two teams pull at it with equal force"
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 6,
+          "type": "Paragraph",
+          "internal_name": "8.3.6",
+          "actual_content": "What do these examples suggest about the nature of force?"
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 7,
+          "type": "Paragraph",
+          "internal_name": "8.3.7",
+          "actual_content": "Forces applied on an object in the same direction add to one another. Now recall what happened when you and your friend pushed the heavy box in the same direction in Activity 8.2."
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 8,
+          "type": "Paragraph",
+          "internal_name": "8.3.8",
+          "actual_content": "If the two forces act in the opposite directions on an object, the net force acting on it is the difference between the two forces. What did you observe in Activity 8.2 when both of you were pushing the heavy box from opposite directions?"
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 9,
+          "type": "Paragraph",
+          "internal_name": "8.3.9",
+          "actual_content": "Recall that in the tug-of-war when two teams pull equally hard, the rope does not move in any direction."
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 10,
+          "type": "Paragraph",
+          "internal_name": "8.3.10",
+          "actual_content": "So, we learn that a force could be larger or smaller than the other or equal to each other. The strength of a force is usually expressed by its magnitude. We have also to specify the direction in which a force acts. Also, if the direction or the magnitude of the applied force changes, its effect also changes."
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 11,
+          "type": "Boxed Fact",
+          "internal_name": "8.3.11",
+          "actual_content": "Does it mean that the net force on an object is zero if the two forces acting on it in opposite directions are equal?"
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 12,
+          "type": "Paragraph",
+          "internal_name": "8.3.12",
+          "actual_content": "In general, more than one force may be acting on an object. However, the effect on the object is due to the net force acting on it."
+        }
+      ]
+    },
+    {
+      "topic_number": "8.4",
+      "topic_title": "A Force can Change the State of Motion",
+      "content": [
+        {
+          "page_no": "97",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "8.4.1",
+          "actual_content": "Let us now find out what happens when a force acts on an object."
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 2,
+          "type": "Activity",
+          "internal_name": "8.4.2",
+          "actual_content": "Activity 8.3\nTake a rubber ball and place it on a level surface such as a table top or a concrete floor. Now, gently push the ball along the level surface (Fig. 8.6). Does the ball begin to move? Push the ball again while it is still moving. Is there any change in its speed? Does it increase or decrease?\nNext, place your palm in front of the moving ball. Remove your palm as soon as the moving ball touches it. Does your palm apply a force on the ball? What happens to the speed of the ball now? Does it increase or decrease? What would happen if you let your palm hold the moving ball?"
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 3,
+          "type": "Image",
+          "internal_name": "8.4.3",
+          "actual_content": "Fig. 8.6 : A ball at rest begins to move when a force is applied on it"
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 4,
+          "type": "Boxed Fact",
+          "internal_name": "8.4.4",
+          "actual_content": "I have seen children competing with one another in moving a rubber tyre or a ring by pushing it (Fig. 8.7). I now understand why the speed of the tyre increases whenever it is pushed."
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 5,
+          "type": "Image",
+          "internal_name": "8.4.5",
+          "actual_content": "Fig. 8.7 : To move a tyre faster it has to be pushed repeatedly"
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 6,
+          "type": "Paragraph",
+          "internal_name": "8.4.6",
+          "actual_content": "You might recall similar situations. For example, while taking a penalty kick in football, the player applies a force on the ball. Before being hit, the ball was at rest and so its speed was zero. The applied force makes the ball move towards the goal. Suppose, the goalkeeper dives or jumps up to save the goal. By his action the goalkeeper tries to apply a force on the moving ball. The force applied by him can stop or deflect the ball, saving a goal being scored. If the goalkeeper succeeds in stopping the ball, its speed decreases to zero."
+        },
+        {
+          "page_no": "97",
+          "sequence_no": 7,
+          "type": "Paragraph",
+          "internal_name": "8.4.7",
+          "actual_content": "These observations suggest that a force applied on an object may change its speed. If the force applied on the object is in the direction of its motion, the speed of the object increases. If the force is applied in the direction opposite to the direction of motion, then it results in a decrease in the speed of the object."
+        },
+        {
+          "page_no": "98",
+          "sequence_no": 8,
+          "type": "Boxed Fact",
+          "internal_name": "8.4.8",
+          "actual_content": "State of Motion\nThe state of motion of an object is described by its speed and the direction of motion. The state of rest is considered to be the state of zero speed. An object may be at rest or in motion; both are its states of motion."
+        },
+        {
+          "page_no": "98",
+          "sequence_no": 9,
+          "type": "Paragraph",
+          "internal_name": "8.4.9",
+          "actual_content": "Paheli is curious to know whether application of a force can only change the speed of an object. Let us find out."
+        },
+        {
+          "page_no": "98",
+          "sequence_no": 10,
+          "type": "Activity",
+          "internal_name": "8.4.10",
+          "actual_content": "Activity 8.4\nTake a ball and place it on a level surface as you did in Activity 8.3. Make the ball move by giving it a push [Fig. 8.8(a)]. Now place a ruler in its path as shown in Fig. 8.8(b). In doing so, you would apply a force on the moving ball. Does the"
+        },
+        {
+          "page_no": "98",
+          "sequence_no": 11,
+          "type": "Image",
+          "internal_name": "8.4.11",
+          "actual_content": "Fig. 8.8 : (a) A ball set in motion by pushing it along a level surface and (b) the direction of motion of the ball after it strikes the ruler placed in its path"
+        },
+        {
+          "page_no": "98",
+          "sequence_no": 12,
+          "type": "Paragraph",
+          "internal_name": "8.4.12",
+          "actual_content": "Let us consider some more examples. In a game of volleyball, players often push the moving ball to their team mates to make a winning move. Sometimes the ball is returned to the other side of the court by pushing or smashing it. In cricket, a batsman plays his or her shot by applying a force on the ball with the bat. Is there any change in the direction of motion of the ball in these cases? In all these examples the speed and the direction of the moving ball change due to the application of a force. Can you give a few more examples of this kind?"
+        },
+        {
+          "page_no": "98",
+          "sequence_no": 13,
+          "type": "Paragraph",
+          "internal_name": "8.4.13",
+          "actual_content": "A change in either the speed of an object, or its direction of motion, or both, is described as a change in its state of motion. Thus, a force may bring a change in the state of motion of an object."
+        }
+      ]
+    }
+  ]
+}

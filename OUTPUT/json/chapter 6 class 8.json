@@ -1,0 +1,316 @@
+{
+  "chapter_number": "6",
+  "chapter_name": "Reproduction in Animals",
+  "topics": [
+    {
+      "topic_number": "6.0",
+      "topic_title": "Introduction",
+      "content": [
+        {
+          "page_no": "67",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "6.0.1",
+          "actual_content": "Do you recall the processes of digestion, circulation and respiration which you have studied in your previous classes? These processes are essential for the survival of every individual. You have also learnt about the process of reproduction in plants. Reproduction is essential for the continuation of a species. Imagine what would have happened if organisms had not reproduced. You will realise that reproduction is very important as it ensures the continuation of similar kinds of individuals, generation after generation."
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 2,
+          "type": "Paragraph",
+          "internal_name": "6.0.2",
+          "actual_content": "You have already learnt in your previous class about reproduction in plants. In this chapter, we shall learn how reproduction takes place in animals."
+        }
+      ]
+    },
+    {
+      "topic_number": "6.1",
+      "topic_title": "Modes of Reproduction",
+      "content": [
+        {
+          "page_no": "67",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "6.1.1",
+          "actual_content": "Have you seen the young ones of different animals? Try to name some of the young ones by completing Table 6.1 shown in examples at S. No. 1 and 5."
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 2,
+          "type": "Table",
+          "internal_name": "6.1.2",
+          "actual_content": "Table 6.1\nS. No.   Animal       Young one\n1.       Human        Baby\n2.       Cat\n3.       Dog\n4.       Butterfly\n5.       Hen          Chick\n6.       Cow\n7.       Frog"
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 3,
+          "type": "Paragraph",
+          "internal_name": "6.1.3",
+          "actual_content": "You must have seen the young ones of various animals being born. Can you tell how chicks and caterpillars are born? How are kittens and puppies born? Do you think that these young ones looked the same before they were born as they do now? Let us find out."
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 4,
+          "type": "Paragraph",
+          "internal_name": "6.1.4",
+          "actual_content": "Just as in plants, there are two modes by which animals reproduce. These are: (i) Sexual reproduction, and (ii) Asexual reproduction."
+        }
+      ]
+    },
+    {
+      "topic_number": "6.2",
+      "topic_title": "Sexual Reproduction",
+      "content": [
+        {
+          "page_no": "67",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "6.2.1",
+          "actual_content": "Try to recall reproduction in plants which you studied in Class VII. You will remember that plants that reproduce sexually have male and female reproductive parts. Can you name these parts? In animals also, males and females have different reproductive parts or organs. Like plants, the reproductive parts in animals also produce gametes that fuse to form a zygote. It is the zygote which develops into a new individual. This type of reproduction beginning from the fusion of male and female gametes is called sexual reproduction."
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 2,
+          "type": "Paragraph",
+          "internal_name": "6.2.2",
+          "actual_content": "Let us find out the reproductive parts in humans and study the process of reproduction in them."
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 3,
+          "type": "Paragraph",
+          "internal_name": "6.2.3",
+          "actual_content": "Male Reproductive Organs\nThe male reproductive organs include a pair of testes (singular, testis), two sperm ducts and a penis (Fig. 6.1). The testes produce the male gametes called sperms. Millions of sperms are produced by the testes. Look at Fig. 6.2 which shows the picture of a sperm. Though sperms are very small in size, each has a head, a middle piece and a tail. Does it appear to be a single cell? Indeed, each sperm is a single cell with all the usual cell components."
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 4,
+          "type": "Diagram",
+          "internal_name": "6.2.4",
+          "actual_content": "Fig. 6.1: Male reproductive organs in humans\nSperm duct\nTestis\nPenis"
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 5,
+          "type": "Boxed Fact",
+          "internal_name": "6.2.5",
+          "actual_content": "What purpose does the tail in a sperm serve?"
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 6,
+          "type": "Image",
+          "internal_name": "6.2.6",
+          "actual_content": "Fig. 6.2 : Human sperm\nHead\nMiddle piece\nTail"
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 7,
+          "type": "Paragraph",
+          "internal_name": "6.2.7",
+          "actual_content": "Female Reproductive Organs\nThe female reproductive organs are a pair of ovaries, oviducts (fallopian tubes) and the uterus (Fig. 6.3). The ovary produces female gametes called ova (eggs) (Fig. 6.4). In human beings, a single matured egg is released into the oviduct by one of the ovaries every month. Uterus is the part where development of the baby takes place. Like the sperm, an egg is also a single cell."
+        },
+        {
+          "page_no": "67",
+          "sequence_no": 8,
+          "type": "Diagram",
+          "internal_name": "6.2.8",
+          "actual_content": "Fig. 6.3 : Female reproductive organs in humans\nOviduct\nOvary\nUterus"
+        },
+        {
+          "page_no": "68",
+          "sequence_no": 9,
+          "type": "Boxed Fact",
+          "internal_name": "6.2.9",
+          "actual_content": "Boojho recalls that the size of eggs in animals varies. The egg may be very small as in humans, much larger as in hens. Ostrich egg is the largest!"
+        },
+        {
+          "page_no": "68",
+          "sequence_no": 10,
+          "type": "Image",
+          "internal_name": "6.2.10",
+          "actual_content": "Fig. 6.4 : Human Ovum\nNucleus"
+        },
+        {
+          "page_no": "68",
+          "sequence_no": 11,
+          "type": "Paragraph",
+          "internal_name": "6.2.11",
+          "actual_content": "Fertilisation\nThe first step in the process of reproduction is the fusion of a sperm and an ovum. When sperms come in contact with an egg, one of the sperms may fuse with the egg. Such fusion of the egg and the sperm is called fertilisation (Fig. 6.5). During fertilisation, the nuclei of the sperm and the egg fuse to form a single nucleus. This results in the formation of a fertilised egg or zygote (Fig. 6.6). Did you know that the zygote is the beginning of a new individual?"
+        },
+        {
+          "page_no": "68",
+          "sequence_no": 12,
+          "type": "Image",
+          "internal_name": "6.2.12",
+          "actual_content": "Fig. 6.5 : Fertilisation\nSperms\nOvum\nFusing nuclei"
+        },
+        {
+          "page_no": "68",
+          "sequence_no": 13,
+          "type": "Image",
+          "internal_name": "6.2.13",
+          "actual_content": "Fig. 6.6 : Zygote"
+        },
+        {
+          "page_no": "68",
+          "sequence_no": 14,
+          "type": "Paragraph",
+          "internal_name": "6.2.14",
+          "actual_content": "The process of fertilisation is the meeting of an egg cell from the mother and a sperm cell from the father. So, the new individual inherits some characteristics from the mother and some from the father. Look at your brother or sister. See if you can recognise some characters in them similar to those of your mother or your father."
+        },
+        {
+          "page_no": "68",
+          "sequence_no": 15,
+          "type": "Paragraph",
+          "internal_name": "6.2.15",
+          "actual_content": "Fertilisation which takes place inside the female body is called internal fertilisation. Internal fertilisation occurs in many animals including humans, cows, dogs and hens."
+        },
+        {
+          "page_no": "69",
+          "sequence_no": 16,
+          "type": "Activity",
+          "internal_name": "6.2.16",
+          "actual_content": "Activity 6.1\nVisit some ponds or slow-flowing streams during spring or rainy season. Look out for clusters of frog\u2019s eggs floating in water. Write down the colour and size of the eggs."
+        },
+        {
+          "page_no": "69",
+          "sequence_no": 17,
+          "type": "Paragraph",
+          "internal_name": "6.2.17",
+          "actual_content": "You will be surprised to know that in many animals fertilisation takes place outside the body of the female. In these animals, fertilisation takes place in water. Let us find out how this happens."
+        },
+        {
+          "page_no": "69",
+          "sequence_no": 18,
+          "type": "Paragraph",
+          "internal_name": "6.2.18",
+          "actual_content": "During spring or rainy season, frogs and toads move to ponds and slow-flowing streams. When the male and female come together in water, the female lays hundreds of eggs. Unlike hen\u2019s egg, frog\u2019s egg is not covered by a shell and it is comparatively very delicate. A layer of jelly holds the eggs together and provides protection to the eggs (Fig. 6.7)."
+        },
+        {
+          "page_no": "69",
+          "sequence_no": 19,
+          "type": "Image",
+          "internal_name": "6.2.19",
+          "actual_content": "Fig. 6.7 : Eggs of frog"
+        },
+        {
+          "page_no": "69",
+          "sequence_no": 20,
+          "type": "Paragraph",
+          "internal_name": "6.2.20",
+          "actual_content": "As the eggs are laid, the male deposits sperms over them. Each sperm swims randomly in water with the help of its long tail. The sperms come in contact with the eggs. This results in fertilisation. This type of fertilisation in which the fusion of a male and a female gamete takes place outside the body of the female is called external fertilisation. It is very common in aquatic animals such as fish, starfish, etc."
+        },
+        {
+          "page_no": "69",
+          "sequence_no": 21,
+          "type": "Boxed Fact",
+          "internal_name": "6.2.21",
+          "actual_content": "Why do fish and frogs lay eggs in hundreds whereas a hen lays only one egg at a time?"
+        },
+        {
+          "page_no": "69",
+          "sequence_no": 22,
+          "type": "Boxed Fact",
+          "internal_name": "6.2.22",
+          "actual_content": "Have you heard of test tube babies?\nBoojho and Paheli\u2019s teacher once told them in the class that in some women oviducts are blocked. These women are unable to bear babies because sperms cannot reach the egg for fertilisation. In such cases, doctors collect freshly released egg and sperms and keep them together for a few hours for IVF or in vitro fertilisation (fertilisation outside the body). In case fertilisation occurs, the zygote is allowed to develop for about a week and then it is placed in the mother\u2019s uterus. Complete development takes place in the uterus and the baby is born like any other baby. Babies born through this technique are called test-tube babies. This term is actually misleading because babies cannot grow in test tubes."
+        }
+      ]
+    },
+    {
+      "topic_number": "6.3",
+      "topic_title": "Development of Embryo",
+      "content": [
+        {
+          "page_no": "70",
+          "sequence_no": 1,
+          "type": "Boxed Fact",
+          "internal_name": "6.3.1",
+          "actual_content": "How could a single cell become such a big individual?"
+        },
+        {
+          "page_no": "70",
+          "sequence_no": 2,
+          "type": "Paragraph",
+          "internal_name": "6.3.2",
+          "actual_content": "Development of Embryo\nFertilisation results in the formation of zygote which begins to develop into an embryo [Fig. 6.8(a)]. The zygote divides repeatedly to give rise to a ball of cells [Fig. 6.8(b)]. The cells then begin to form groups that develop into different tissues and organs of the body. This developing structure is termed an embryo. The embryo gets embedded in the wall of the uterus for further development [Fig. 6.8(c)]."
+        },
+        {
+          "page_no": "70",
+          "sequence_no": 3,
+          "type": "Diagram",
+          "internal_name": "6.3.3",
+          "actual_content": "Fig. 6.8 : (a) Zygote formation and development of an embryo from the zygote; (b) Ball of cells (enlarged); (c) Embedding of the embryo in the uterus (enlarged)\n(a) Ovary, Ovulation, Zygote\n(b) Ball of cells\n(c) Uterus, Embedding embryo, Uterus wall, Developing embryo"
+        },
+        {
+          "page_no": "70",
+          "sequence_no": 4,
+          "type": "Boxed Fact",
+          "internal_name": "6.3.4",
+          "actual_content": "Though these animals lay hundreds of eggs and release millions of sperms, all the eggs do not get fertilised and develop into new individuals. This is because the eggs and sperms get exposed to water movement, wind and rainfall. Also, there are other animals in the pond which may feed on eggs. Thus, production of large number of eggs and sperms is necessary to ensure fertilisation of at least a few of them."
+        },
+        {
+          "page_no": "71",
+          "sequence_no": 5,
+          "type": "Paragraph",
+          "internal_name": "6.3.5",
+          "actual_content": "The embryo continues to develop in the uterus. It gradually develops body parts such as hands, legs, head, eyes, ears etc. The stage of the embryo in which all the body parts can be identified is called a foetus (Fig. 6.9). When the development of the foetus is complete, the mother gives birth to the baby."
+        },
+        {
+          "page_no": "71",
+          "sequence_no": 6,
+          "type": "Paragraph",
+          "internal_name": "6.3.6",
+          "actual_content": "Internal fertilisation takes place in hens also. But, do hens give birth to babies like human beings and cows? You know that they do not. Then, how are chicks born? Let us find out."
+        },
+        {
+          "page_no": "71",
+          "sequence_no": 7,
+          "type": "Paragraph",
+          "internal_name": "6.3.7",
+          "actual_content": "Soon after fertilisation, the zygote divides repeatedly and travels down the oviduct. As it travels down, many protective layers are formed around it. The hard shell that you see in a hen\u2019s egg is one such protective layer."
+        },
+        {
+          "page_no": "71",
+          "sequence_no": 8,
+          "type": "Paragraph",
+          "internal_name": "6.3.8",
+          "actual_content": "After the hard shell is formed around the developing embryo, the hen finally lays the egg. The embryo takes about 3 weeks to develop into a chick. You must have seen the hen sitting on the eggs to provide sufficient warmth. Did you know that the development of the chick takes place inside the egg shell during this period? After the chick is completely developed it bursts open the egg shell."
+        },
+        {
+          "page_no": "71",
+          "sequence_no": 9,
+          "type": "Paragraph",
+          "internal_name": "6.3.9",
+          "actual_content": "In animals which undergo external fertilisation, development of the embryo takes place outside the female body. The embryos continue to grow within their egg coverings. After the embryos develop, the eggs hatch. You must have seen numerous tadpoles swimming in ponds and streams."
+        }
+      ]
+    },
+    {
+      "topic_number": "6.4",
+      "topic_title": "Viviparous and Oviparous Animals",
+      "content": [
+        {
+          "page_no": "71",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "6.4.1",
+          "actual_content": "We have learnt that some animals give birth to young ones while some animals lay eggs which later develop into young ones. The animals which give birth to young ones are called viviparous animals. Those animals which lay eggs are called oviparous animals. The following activity will help you understand better and differentiate between viviparous and oviparous animals."
+        },
+        {
+          "page_no": "71",
+          "sequence_no": 2,
+          "type": "Activity",
+          "internal_name": "6.4.2",
+          "actual_content": "Activity 6.2\nTry to observe eggs of the following organisms \u2013 frog, lizard, butterfly or moth, hen and crow or any other bird. Were you able to observe eggs of all of them? Make drawings of the eggs that you have observed."
+        },
+        {
+          "page_no": "71",
+          "sequence_no": 3,
+          "type": "Paragraph",
+          "internal_name": "6.4.3",
+          "actual_content": "The eggs of a few animals are easy to observe because their mothers lay them outside their bodies. These are examples of oviparous animals. But you would not be able to collect the eggs of a dog, cow or cat. This is because they do not lay eggs. The mother gives birth to the young ones. These are examples of viviparous animals."
+        }
+      ]
+    }
+  ]
+}

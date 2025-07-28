@@ -1,0 +1,329 @@
+{
+  "chapter_number": "13",
+  "chapter_name": "LIGHT",
+  "topics": [
+    {
+      "topic_number": "13.0",
+      "topic_title": "Introduction",
+      "content": [
+        {
+          "page_no": "166",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "13.0.1",
+          "actual_content": "The world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky. At night we see the moon and the stars. You are able to see the words and sentences printed on this page. How is seeing made possible?"
+        }
+      ]
+    },
+    {
+      "topic_number": "13.1",
+      "topic_title": "What makes Things Visible",
+      "content": [
+        {
+          "page_no": "166",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "13.1.1",
+          "actual_content": "Have you ever thought how we see various objects? You may say that  eyes see the objects. But, can you see an object in the dark? It means that eyes alone cannot see any object. It is only when light from an object enters our eyes that we see the object. The light may have been emitted by the object, or may have been reflected by it."
+        },
+        {
+          "page_no": "166",
+          "sequence_no": 2,
+          "type": "Paragraph",
+          "internal_name": "13.1.2",
+          "actual_content": "You learnt in Class VII that a polished or a shiny surface can act as a mirror. A mirror changes the direction  of light that falls on it. Can you tell in which direction the light falling on a surface will be reflected? Let us find out."
+        }
+      ]
+    },
+    {
+      "topic_number": "13.2",
+      "topic_title": "Laws of Reflection",
+      "content": [
+        {
+          "page_no": "166",
+          "sequence_no": 1,
+          "type": "Activity",
+          "internal_name": "13.2.1",
+          "actual_content": "Activity 13.1\nFix a white sheet of paper on a drawing board or a table. Take a comb and close all its openings except one in the middle. You can use a strip of black paper for this purpose. Hold the comb perpendicular to the sheet of paper. Throw light from a torch through the opening of the comb from one side (Fig. 13.1). With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb. Keep the comb and the torch steady. Place a strip of plane mirror in the path of the light ray (Fig. 13.1). What do you observe?"
+        },
+        {
+          "page_no": "166",
+          "sequence_no": 2,
+          "type": "Paragraph",
+          "internal_name": "13.2.2",
+          "actual_content": "After striking the mirror, the ray of light is reflected in another direction. The light ray, which strikes any surface, is called the incident ray. The ray that comes back from the surface after reflection is known as the reflected ray."
+        },
+        {
+          "page_no": "166",
+          "sequence_no": 3,
+          "type": "Diagram",
+          "internal_name": "13.2.3",
+          "actual_content": "Fig. 13.1 : Arrangement for showing reflection"
+        },
+        {
+          "page_no": "167",
+          "sequence_no": 4,
+          "type": "Paragraph",
+          "internal_name": "13.2.4",
+          "actual_content": "A ray of light is an idealisation. In reality, we have a narrow beam of light which is made up of several rays. For simplicity, we use the term ray for a narrow beam of light."
+        },
+        {
+          "page_no": "167",
+          "sequence_no": 5,
+          "type": "Paragraph",
+          "internal_name": "13.2.5",
+          "actual_content": "Draw lines showing the position of the plane mirror, the incident ray and the reflected ray on the paper with the help of your friends. Remove the mirror and the comb. Draw a line making an angle of 90\u00ba to the line representing the mirror at the point where the incident ray strikes the mirror. This line is known as the normal to the reflecting surface at that point (Fig. 13.2). The angle between the normal and incident ray is called the angle of incidence (\u2220i). The angle between the normal and the reflected ray is known as the angle of reflection (\u2220r) (Fig. 13.3). Measure the angle of incidence and the angle of reflection. Repeat the activity several times by changing the  angle of incidence. Enter the data  in Table 13.1."
+        },
+        {
+          "page_no": "167",
+          "sequence_no": 6,
+          "type": "Diagram",
+          "internal_name": "13.2.6",
+          "actual_content": "Fig. 13.2 : Drawing the normal"
+        },
+        {
+          "page_no": "167",
+          "sequence_no": 7,
+          "type": "Diagram",
+          "internal_name": "13.2.7",
+          "actual_content": "Fig. 13.3 : Angle of incidence and angle of reflection"
+        },
+        {
+          "page_no": "167",
+          "sequence_no": 8,
+          "type": "Table",
+          "internal_name": "13.2.8",
+          "actual_content": "Table 13.1 : Angles of Incidence and Reflection\nS. No.\tAngle of Incidence (\u2220i)\tAngle of Reflection (\u2220r)\n1.\n2.\n3.\n4.\n5."
+        },
+        {
+          "page_no": "167",
+          "sequence_no": 9,
+          "type": "Paragraph",
+          "internal_name": "13.2.9",
+          "actual_content": "Do you see any relation between the angle of incidence and the angle of reflection. Are they approximately equal? If the experiment is carried out carefully, it is seen that the angle of incidence is always equal to the angle of reflection. This is one of the laws of reflection. Let us perform another activity on reflection."
+        },
+        {
+          "page_no": "167",
+          "sequence_no": 10,
+          "type": "Boxed Fact",
+          "internal_name": "13.2.10",
+          "actual_content": "What would happen if I threw the light on the mirror along the normal."
+        },
+        {
+          "page_no": "167",
+          "sequence_no": 11,
+          "type": "Activity",
+          "internal_name": "13.2.11",
+          "actual_content": "Activity 13.2\nPerform Activity 13.1 again. This time use a sheet of stiff paper or a chart paper. Let the sheet project a little beyond the edge of the Table (Fig. 13.4). Cut the projecting portion of the sheet in the middle. Look at the reflected ray. Make sure that the reflected ray extends to the projected portion of the paper. Bend that part of the projected portion on which the reflected ray falls. Can you still see the reflected ray? Bring the paper back to the original position. Can you see the reflected ray again? What do you infer?"
+        },
+        {
+          "page_no": "168",
+          "sequence_no": 12,
+          "type": "Diagram",
+          "internal_name": "13.2.12",
+          "actual_content": "Fig. 13.4 (a), (b) : Incident ray, reflected ray and the normal at the point of incidence lie in the same plane"
+        },
+        {
+          "page_no": "168",
+          "sequence_no": 13,
+          "type": "Paragraph",
+          "internal_name": "13.2.13",
+          "actual_content": "When the whole sheet of paper is spread on the table, it represents one plane. The incident ray, the normal at the point of incidence and the reflected ray are all in this plane. When you bend the paper you create a plane different from the plane in which the incident ray and the normal lie. Then you do not see the reflected ray. What does it indicate? It indicates that the incident ray, the normal at the point of incidence and the reflected ray all lie in the same plane. This is another law of reflection."
+        },
+        {
+          "page_no": "168",
+          "sequence_no": 14,
+          "type": "Paragraph",
+          "internal_name": "13.2.14",
+          "actual_content": "Paheli and Boojho performed the above activities outside the classroom with the Sun as the source of light instead of a torch. You, too, can use the Sun as the source of light."
+        },
+        {
+          "page_no": "168",
+          "sequence_no": 15,
+          "type": "Paragraph",
+          "internal_name": "13.2.15",
+          "actual_content": "These activities can also be performed by making use of the Ray Streak Apparatus (available in the kit prepared by NCERT)."
+        },
+        {
+          "page_no": "168",
+          "sequence_no": 16,
+          "type": "Paragraph",
+          "internal_name": "13.2.16",
+          "actual_content": "Boojho remembered that in Class VII, he had studied some features of the image of an object formed by a plane mirror. Paheli asked him to recall those features:\n(i) Was the image erect or upside down?\n(ii) Was it of the same size as the object?\n(iii) Did the image appear at  the same distance behind the mirror as the object was in front of it?\n(iv) Could it be obtained on a screen?"
+        },
+        {
+          "page_no": "168",
+          "sequence_no": 17,
+          "type": "Paragraph",
+          "internal_name": "13.2.17",
+          "actual_content": "Let us understand a little more about the formation of an image by a plane mirror in the following way:"
+        },
+        {
+          "page_no": "168",
+          "sequence_no": 18,
+          "type": "Activity",
+          "internal_name": "13.2.18",
+          "actual_content": "Activity 13.3\nA source of light O is placed in front of a plane mirror PQ. Two rays OA and OC are incident on it (Fig. 13.5). Can you find out the direction of the reflected rays?\nDraw normals to the surface of the mirror PQ, at the points A and C. Then draw the reflected rays at the points A and C. How would you draw these rays? Call the reflected rays AB and CD, respectively. Extend them further. Do they meet? Extend them backwards. Do they meet now? If they meet, mark this point as I. For a viewer\u2019s eye at E (Fig. 13 .5), do the reflected rays appear to come from the point I. Since the reflected rays do not actually meet at I, but only appear to do so, we say that a virtual image of the point O is formed at I. As you have learnt already in Class VII, such an image cannot be obtained on a screen."
+        },
+        {
+          "page_no": "169",
+          "sequence_no": 19,
+          "type": "Diagram",
+          "internal_name": "13.2.19",
+          "actual_content": "Fig. 13.5 : Image formation in a plane mirror"
+        },
+        {
+          "page_no": "169",
+          "sequence_no": 20,
+          "type": "Paragraph",
+          "internal_name": "13.2.20",
+          "actual_content": "You may recall that in an image formed by a  mirror the left of the object appears on the right and the right appears on the left. This is known as lateral inversion."
+        }
+      ]
+    },
+    {
+      "topic_number": "13.3",
+      "topic_title": "Regular and Diffused Reflection",
+      "content": [
+        {
+          "page_no": "169",
+          "sequence_no": 1,
+          "type": "Activity",
+          "internal_name": "13.3.1",
+          "actual_content": "Activity 13.4\nImagine that parallel rays are incident on an irregular surface as shown in Fig. 13.6. Remember that the laws of reflection are valid at each point of the surface. Use these laws to construct reflected rays at various points. Are they parallel to one another? You will find that these rays are reflected in different directions. (Fig. 13.7)"
+        },
+        {
+          "page_no": "169",
+          "sequence_no": 2,
+          "type": "Diagram",
+          "internal_name": "13.3.2",
+          "actual_content": "Fig. 13.6 : Parallel rays incident on an irregular surface"
+        },
+        {
+          "page_no": "169",
+          "sequence_no": 3,
+          "type": "Diagram",
+          "internal_name": "13.3.3",
+          "actual_content": "Fig. 13.7 : Rays reflected from irregular surface"
+        },
+        {
+          "page_no": "169",
+          "sequence_no": 4,
+          "type": "Paragraph",
+          "internal_name": "13.3.4",
+          "actual_content": "When all the parallel rays reflected from a rough or irregular surface are not parallel, the reflection is known as diffused or irregular reflection. Remember that the diffused reflection is not due to the failure of the laws of reflection. It is caused by the irregularities in the reflecting surface, like that of a cardboard."
+        },
+        {
+          "page_no": "169",
+          "sequence_no": 5,
+          "type": "Paragraph",
+          "internal_name": "13.3.5",
+          "actual_content": "On the other hand, reflection from a smooth surface like that of a mirror is called regular reflection (Fig. 13.8). Images are formed by regular reflection."
+        },
+        {
+          "page_no": "169",
+          "sequence_no": 6,
+          "type": "Diagram",
+          "internal_name": "13.3.6",
+          "actual_content": "Fig. 13.8 : Regular reflection"
+        },
+        {
+          "page_no": "170",
+          "sequence_no": 7,
+          "type": "Boxed Fact",
+          "internal_name": "13.3.7",
+          "actual_content": "Do We See all Objects due to Reflected Light?\nNearly everything you see around is seen due to reflected light. Moon, for example, receives light from the Sun and reflects it. That\u2019s how we see the moon. The objects which shine in the light of other objects are called illuminated objects. Can you name some other such objects?\nThere are other objects, which give their own light, such as the Sun, fire, flame of a candle and an electric lamp. Their light falls on our eyes. That is how we see them. The objects which emit their own light are known as luminous objects."
+        }
+      ]
+    },
+    {
+      "topic_number": "13.4",
+      "topic_title": "Reflected Light Can be Reflected Again",
+      "content": [
+        {
+          "page_no": "170",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "13.4.1",
+          "actual_content": "Recall the last time you visited a hair dresser. She/he makes you sit in front of a mirror. After your hair cut is complete, she/he holds a mirror behind you to show you how the hair has been cut (Fig. 13.9). Do you know how you could see the hair at the back of your head?"
+        },
+        {
+          "page_no": "170",
+          "sequence_no": 2,
+          "type": "Diagram",
+          "internal_name": "13.4.2",
+          "actual_content": "Fig. 13.9 : Mirror at the hair dresser shop"
+        },
+        {
+          "page_no": "170",
+          "sequence_no": 3,
+          "type": "Boxed Fact",
+          "internal_name": "13.4.3",
+          "actual_content": "I have a question. Can the reflected rays be further reflected if incident on another mirror?"
+        },
+        {
+          "page_no": "170",
+          "sequence_no": 4,
+          "type": "Paragraph",
+          "internal_name": "13.4.4",
+          "actual_content": "Let us find out."
+        },
+        {
+          "page_no": "170",
+          "sequence_no": 5,
+          "type": "Paragraph",
+          "internal_name": "13.4.5",
+          "actual_content": "Paheli recalls having constructed a periscope as an Extended Activity in Class VI. The periscope makes use of two plane mirrors. Can you explain how reflection from the two mirrors enables you to see objects which are not visible directly? Periscopes are used in submarines, tanks and also by soldiers in bunkers to see things outside."
+        }
+      ]
+    },
+    {
+      "topic_number": "13.5",
+      "topic_title": "Multiple Images",
+      "content": [
+        {
+          "page_no": "170",
+          "sequence_no": 1,
+          "type": "Paragraph",
+          "internal_name": "13.5.1",
+          "actual_content": "You are aware that a plane mirror forms only a single image of an object. What happens if two plane mirrors are used in combination? Let us see."
+        },
+        {
+          "page_no": "171",
+          "sequence_no": 2,
+          "type": "Activity",
+          "internal_name": "13.5.2",
+          "actual_content": "Activity 13.5\nTake two plane mirrors. Set them at right angles to each other with their edges touching (Fig. 13.10). To hinge them you can use adhesive tape. Place a coin in between the mirrors. How many images of the coin do you see (Fig. 13.10)?\nNow hinge the mirrors using the adhesive tape at different angles, say 45\u00b0, 60\u00b0, 120\u00b0, 180\u00b0 etc. Place some object (say a candle) in between them. Note down the number of images of the object in each case.\nFinally, set the two mirrors parallel to each other. Find out how many images of a candle placed between them are formed (Fig. 13.11)."
+        },
+        {
+          "page_no": "171",
+          "sequence_no": 3,
+          "type": "Diagram",
+          "internal_name": "13.5.3",
+          "actual_content": "Fig. 13.10 : Images in plane mirror at right angle to each other"
+        },
+        {
+          "page_no": "171",
+          "sequence_no": 4,
+          "type": "Diagram",
+          "internal_name": "13.5.4",
+          "actual_content": "Fig. 13.11 : Image in plane mirror parallel to each other"
+        },
+        {
+          "page_no": "171",
+          "sequence_no": 5,
+          "type": "Paragraph",
+          "internal_name": "13.5.5",
+          "actual_content": "Can you now explain how you can see the back of your head at the hair dresser\u2019s shop?"
+        },
+        {
+          "page_no": "171",
+          "sequence_no": 6,
+          "type": "Paragraph",
+          "internal_name": "13.5.6",
+          "actual_content": "This idea of number of images formed by mirrors placed at an angle to one another"
+        }
+      ]
+    }
+  ]
+}
